@@ -76,3 +76,4 @@ function generarNumeroSecreto() {
 }
 
 condicionesIniciales();
+//Juego completado
